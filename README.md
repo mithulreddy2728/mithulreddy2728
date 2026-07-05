@@ -77,28 +77,6 @@ status: Open to opportunities 🟢
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=100%" />
 
-## 🔻 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3>🔴 Project One</h3>
-<i>Replace with your project name</i><br><br>
-<b>Stack:</b> Django · React · MySQL<br>
-<b>What it does:</b> One-line description of the project goes here.<br><br>
-<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=FF0000" />
-</td>
-<td width="50%">
-<h3>🔴 Project Two</h3>
-<i>Replace with your project name</i><br><br>
-<b>Stack:</b> Python · IoT · Arduino<br>
-<b>What it does:</b> One-line description of the project goes here.<br><br>
-<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=FF0000" />
-</td>
-</tr>
-</table>
-
-> ⚡ Send me your real repo names + descriptions and I'll swap these placeholder cards with live pinned-repo widgets (auto-pulling stars, language, forks).
 
 <br>
 
