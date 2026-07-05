@@ -9,12 +9,12 @@
 
 ## 🖥️ About Me
 ```bash
-┌──(mithul㉿github)-[~]
+┌──(mithulreddy㉿github)-[~]
 └─$ whoami
 
 > Mithul Reddy — Full Stack Python Developer 🇮🇳
 
-┌──(mithul㉿github)-[~]
+┌──(mithulreddy㉿github)-[~]
 └─$ cat about.txt
 
 > 🎓 CS @ JNTUH — Batch 2027
@@ -35,14 +35,6 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| _Add your project here_ | _Stack used_ | _One-line description_ |
-| _Add your project here_ | _Stack used_ | _One-line description_ |
-
-> 💡 Swap these rows with links to your actual repos whenever you're ready — happy to help format them.
 
 ---
 
@@ -108,7 +100,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer"/>
 
 ```
-commit 1a2b3c4
 Author: mithulreddy2728 <mithulreddy2728@gmail.com>
 Date:   Everyday
 
