@@ -152,7 +152,7 @@ An AI agent built to support placement preparation — helping students train an
 </tr>
 </table>
 
-> ⚡ Send me the GitHub repo links for these four and I'll wire in live pinned-repo widgets (auto-pulling stars, forks, and language stats) in place of the static cards.
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=100%" />
 
@@ -190,9 +190,7 @@ This renders your contribution graph as an animated snake in red/black. Needs a 
 
 ## 🔺 Now
 
-- 🔴 Refining **Swayantra**'s perception stack with YOLOv8
-- 🔴 Shipping **NeoPath**'s skill-vs-payout comparison engine
-- 🔴 Iterating on **EdQuest**'s AI quiz generation
+
 - 🔴 Open to Full Stack / AI-ML opportunities
 
 <br>
